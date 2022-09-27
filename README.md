@@ -11,8 +11,8 @@ This project tries to enable clients to be able to solve the challenges ensuring
 To setup you should create a Python 3 virtual environment and then clone this repository. The packages can then be installed from requirements.txt file.
 
 ``` 
-git clone https://github.com/bkget/AlgodApp.git
-cd AlgodApp
+git clone (https://github.com/Yohanes-GR/End-to-End-Web3-dApps.git)
+cd End-to-End-Web3-dApps
 pip install -r requirements.txt
 ```
 
