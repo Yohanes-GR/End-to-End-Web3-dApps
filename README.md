@@ -1,5 +1,5 @@
 ## End-to-End Web3 dApps
-![Algorand Protocol Participation](https://images.prismic.io/algorandfoundationv2/54ad62d1-e7b3-4a74-afdb-0ee376d5ce22_protocol.png)
+![Algorand Protocol Participation](https://miro.medium.com/max/720/1*cXWnSYwoGO1zR6ASBBczHg.png)
 
 ### Introduction
 Web3 technology is inherently about the user controlled internet. It is being achieved by a growing stack of decentralized technologies, such as blockchains, smart contracts, oracles, crypto wallets, storage networks, and more.
