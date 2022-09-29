@@ -3,7 +3,6 @@ from flask import Flask
 from . import auth
 from . import views
 
-
 def create_app():
     app = Flask(__name__)
     app.config["SECRET_KEY"] = "put any long random string here"
