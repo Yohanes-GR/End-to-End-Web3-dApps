@@ -48,5 +48,5 @@ print("Result confirmed in round: {}".format(confirmed_txn['confirmed-round']))
 
 # if __name__ == "__main__":
     # print(algod_client.status())
-    # print(biruk)
+    #jo
     # print(mnemonic.from_private_key("sxszP/tqNqEvedPIb1M1g6X8K3VD3/ndQKVbgkMHNsm8Oj5REiUtOp0piNih6h8TvWF0XaOTUvZD17zUTaZbpQ=="))
