@@ -9,7 +9,6 @@ main_bp = Blueprint(
     static_folder='static'
 )
 
-
 @main_bp.route('/')
 @login_required
 def index():
