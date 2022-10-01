@@ -14,7 +14,6 @@ auth_bp = Blueprint(
     static_folder='static'
 )
 
-
 @auth_bp.route('/login', methods=['GET', 'POST'])
 def login():
     """Default login page"""
