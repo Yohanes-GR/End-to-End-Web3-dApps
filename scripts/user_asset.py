@@ -4,7 +4,6 @@ from flask_login import UserMixin
 from .algod import get_balance, send_txn, create_asset
 from .indexer import get_transactions, get_assets
 
-
 class User(UserMixin):
     """User account model"""
 
