@@ -3,7 +3,6 @@ body {
     font-family: helvetica;
     color: black;
 }
-
 .container {
     display: flex;
     justify-content: center;
@@ -49,7 +48,6 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
-
 th, td {
     border-bottom: 1px solid lightgrey;
     padding: 4px;
