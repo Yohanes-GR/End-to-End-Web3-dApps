@@ -1,7 +1,6 @@
 from algosdk.constants import microalgos_to_algos_ratio
 from algosdk.v2client import indexer
 
-
 def myindexer():
     """Initialize and return an indexer"""
 
