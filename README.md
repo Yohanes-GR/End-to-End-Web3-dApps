@@ -39,7 +39,7 @@ In the project directory, you can run:
 
 ```bash
 git clone https://github.com/Yohanes-GR/End-to-End-Web3-dApps.git
-cd algorand-NFTs-smartContracts
+cd End-to-End-Web3-dApps
 ```
 ### Author
 #### Yohanes Gutema yohgut@gmail.com
