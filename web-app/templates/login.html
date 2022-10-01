@@ -5,7 +5,6 @@
 <h1>Login</h1>
 <form action="{{ url_for('auth_bp.login') }}" method="post">
     {{ form.csrf_token }}
-
     {{ form.passphrase.label }}
     <br>
     {{ form.passphrase }}
