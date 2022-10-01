@@ -31,36 +31,16 @@ pip3 install py-algorand-sdk
 
 Follow this link for creating an account [developer.algorand.sdk](https://developer.algorand.org/docs/sdks/python/)
 
-### Setup react app
-
-### Available Scripts
+### setup
+To setup you should create a Python 3 virtual environment and then clone this repository. 
+The packages can then be installed from requirements.txt file.
 
 In the project directory, you can run:
 
 ```bash
-git clone https://github.com/BirhanuGebisa/Algorand-dapps_smart-contract.git
+git clone https://github.com/Yohanes-GR/End-to-End-Web3-dApps.git
 cd algorand-NFTs-smartContracts
-npm start
 ```
-
-Runs the app in the development mode.
-Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-
-### Analyzing the Bundle Size
--
-### Deployment
--
+### Author
+#### Yohanes Gutema yohgut@gmail.com
 
