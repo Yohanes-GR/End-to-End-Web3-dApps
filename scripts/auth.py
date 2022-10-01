@@ -5,7 +5,6 @@ from flask_login import LoginManager, current_user, login_user
 from .algod import create_account
 from .forms import LoginForm
 from .models import User
-
 login_manager = LoginManager()
 
 auth_bp = Blueprint(
