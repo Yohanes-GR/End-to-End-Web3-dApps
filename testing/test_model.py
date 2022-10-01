@@ -5,7 +5,6 @@ from application.algod import get_balance
 
 class TestModels(unittest.TestCase):
     
-
     def setUp(self):
         self.sk, self.pk = account.generate_account()
         self.mnemonic_phrase = mnemonic.from_private_key(self.sk) 
@@ -20,7 +19,6 @@ class TestModels(unittest.TestCase):
 
     def test_get_balance(self):
         self.assertEqual(self.balance, 0)
-
 
 if __name__ == '__main__':
     unittest.main()
