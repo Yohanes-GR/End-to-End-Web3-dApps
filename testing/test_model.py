@@ -20,7 +20,6 @@ class TestModels(unittest.TestCase):
     def test_get_balance(self):
         self.assertEqual(self.balance, 0)
 
-
 if __name__ == '__main__':
     unittest.main()
 
